@@ -1,0 +1,16 @@
+C:\xampp\htdocs\Projetos\Dio Projetos\Projeto-01\Livros\bin\Debug\net5.0\Livros.exe
+C:\xampp\htdocs\Projetos\Dio Projetos\Projeto-01\Livros\bin\Debug\net5.0\Livros.deps.json
+C:\xampp\htdocs\Projetos\Dio Projetos\Projeto-01\Livros\bin\Debug\net5.0\Livros.runtimeconfig.json
+C:\xampp\htdocs\Projetos\Dio Projetos\Projeto-01\Livros\bin\Debug\net5.0\Livros.runtimeconfig.dev.json
+C:\xampp\htdocs\Projetos\Dio Projetos\Projeto-01\Livros\bin\Debug\net5.0\Livros.dll
+C:\xampp\htdocs\Projetos\Dio Projetos\Projeto-01\Livros\bin\Debug\net5.0\ref\Livros.dll
+C:\xampp\htdocs\Projetos\Dio Projetos\Projeto-01\Livros\bin\Debug\net5.0\Livros.pdb
+C:\xampp\htdocs\Projetos\Dio Projetos\Projeto-01\Livros\obj\Debug\net5.0\Livros.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Projetos\Dio Projetos\Projeto-01\Livros\obj\Debug\net5.0\Livros.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Projetos\Dio Projetos\Projeto-01\Livros\obj\Debug\net5.0\Livros.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Projetos\Dio Projetos\Projeto-01\Livros\obj\Debug\net5.0\Livros.AssemblyInfo.cs
+C:\xampp\htdocs\Projetos\Dio Projetos\Projeto-01\Livros\obj\Debug\net5.0\Livros.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Projetos\Dio Projetos\Projeto-01\Livros\obj\Debug\net5.0\Livros.dll
+C:\xampp\htdocs\Projetos\Dio Projetos\Projeto-01\Livros\obj\Debug\net5.0\ref\Livros.dll
+C:\xampp\htdocs\Projetos\Dio Projetos\Projeto-01\Livros\obj\Debug\net5.0\Livros.pdb
+C:\xampp\htdocs\Projetos\Dio Projetos\Projeto-01\Livros\obj\Debug\net5.0\Livros.genruntimeconfig.cache
