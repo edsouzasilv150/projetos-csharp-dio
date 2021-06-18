@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\Projetos\\Dio Projetos\\Projeto-01\\Livros\\Livros.csproj": {}
+    "C:\\xampp\\htdocs\\Projetos\\Dio Projetos\\Projeto-01\\livros\\Livros.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\Projetos\\Dio Projetos\\Projeto-01\\Livros\\Livros.csproj": {
+    "C:\\xampp\\htdocs\\Projetos\\Dio Projetos\\Projeto-01\\livros\\Livros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\Projetos\\Dio Projetos\\Projeto-01\\Livros\\Livros.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\Projetos\\Dio Projetos\\Projeto-01\\livros\\Livros.csproj",
         "projectName": "Livros",
-        "projectPath": "C:\\xampp\\htdocs\\Projetos\\Dio Projetos\\Projeto-01\\Livros\\Livros.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\Projetos\\Dio Projetos\\Projeto-01\\livros\\Livros.csproj",
         "packagesPath": "C:\\Users\\ConfieTech\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\Projetos\\Dio Projetos\\Projeto-01\\Livros\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\Projetos\\Dio Projetos\\Projeto-01\\livros\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ConfieTech\\AppData\\Roaming\\NuGet\\NuGet.Config"
